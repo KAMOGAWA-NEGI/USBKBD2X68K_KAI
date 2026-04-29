@@ -1,6 +1,5 @@
 # USBKBD2X68K_KAI
 
-# X68K_USBKM_RP2040_REV.A
 
 USBキーボードとUSBマウス／トラックボールを、Raspberry Pi Pico / RP2040系ボード経由で **SHARP X68000 のキーボードポート**へ接続するための変換アダプター用ファームウェアです。
 
