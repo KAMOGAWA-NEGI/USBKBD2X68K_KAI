@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2026-05-14T04:46:31Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "USBX68K v1"
+        },
+        "Owner": "鴨川 ネギ <sgk51@deomail.top>",
+        "Size": {
+            "X": 20.3,
+            "Y": 39.675
+        }
+    }
+}
